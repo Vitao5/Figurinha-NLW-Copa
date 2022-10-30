@@ -1,2 +1,3 @@
 # Figurinha-NLW-Copa
-![image](https://user-images.githubusercontent.com/69489641/198883097-606b160a-3893-4c7e-aa9a-8fb5ae393e1e.png)
+![image](https://user-images.githubusercontent.com/69489641/198883131-b56850e7-1b7e-4ffa-993a-34c6f0061559.png)
+
