@@ -53,7 +53,7 @@
 
 .info{
     margin-top: 98px;
-    color: wheat;
+    color: white;
     margin-left: 70px;
     text-align: left;
 }
@@ -66,6 +66,11 @@
 .info p{
     font-size: 16px;
     line-height: 160%;
+}
+
+.title{
+   color: yellow;
+   margin-bottom: 10px;
 }
 
 @keyframes appear {
